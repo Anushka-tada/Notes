@@ -1,0 +1,44 @@
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: linear-gradient(rgb(146, 180, 184) , rgb(225, 237, 240));
+     
+     min-height: 100vh;
+}
+
+.title{
+    background-color: transparent;
+    color: black;
+    font-size: 16px;
+    
+}
+.descrip{
+    background-color: transparent;
+    color: black;
+    font-size: 16px;
+}
+.btndiv{
+   /* border: 2px solid rgb(253, 253, 253); */
+   background-color: rgb(232, 232, 230);
+   border-top-right-radius: 0%;
+   border-top-left-radius: 0%;
+   border-bottom-left-radius: 100%;
+   border-bottom-right-radius: 100%;
+  
+  } 
+  
+
+.btns{
+    background-color: white;
+    font-size: 15px;
+}
+
+.btns:hover{
+
+   background-color: rgb(235, 197, 189);
+
+}
+.noteBox{
+
+    background:linear-gradient(rgb(255, 255, 255) , rgb(230, 235, 236));
+
+}
